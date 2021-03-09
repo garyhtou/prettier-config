@@ -1,0 +1,19 @@
+{
+  "name": "@garyhtou/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configurations via npm",
+  "main": "config.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garyhtou/prettier-config.git"
+  },
+  "author": "Gary Tou <gary@garytou.com> (https://garytou.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garyhtou/prettier-config/issues"
+  },
+  "homepage": "https://github.com/garyhtou/prettier-config#readme"
+}
