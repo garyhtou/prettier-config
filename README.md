@@ -1,4 +1,4 @@
-# `@garyhtou`'s  Prettier Configurations
+# `@garyhtou`'s Prettier Configurations
 
 ## Install
 
@@ -16,6 +16,7 @@ or add to `package.json`:
 ```
 
 ---
+
 [prettier.io](https://prettier.io/)
 
 Inspired by [@azz](https://github.com/azz/prettier-config)
