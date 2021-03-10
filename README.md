@@ -15,6 +15,14 @@ or add to `package.json`:
 }
 ```
 
+## Usage
+
+After installing, add the following to `.prettierrc.js`
+
+```javascript
+module.exports = require('@garyhtou/prettier-config');
+```
+
 ---
 
 [prettier.io](https://prettier.io/)
