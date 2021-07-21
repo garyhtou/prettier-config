@@ -2,16 +2,18 @@
 
 ## Install
 
-```
+``` sh
 npm install @garyhtou/prettier-config --save-dev
+# or
+yarn add -D @garyhtou/prettier-config
 ```
 
 or add to `package.json`:
 
-```json
+```js
 {
 	// ...
-	"prettier": "@azz/prettier-config"
+	"prettier": "@garyhtou/prettier-config"
 }
 ```
 
