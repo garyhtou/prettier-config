@@ -3,26 +3,17 @@
 ## Install
 
 ``` sh
-npm install @garyhtou/prettier-config --save-dev
-# or
 yarn add -D @garyhtou/prettier-config
+# or
+npm install @garyhtou/prettier-config --save-dev
 ```
 
-or add to `package.json`:
+then add to `package.json`:
 
-```js
+```json
 {
-	// ...
 	"prettier": "@garyhtou/prettier-config"
 }
-```
-
-## Usage
-
-After installing, add the following to `.prettierrc.js`
-
-```javascript
-module.exports = require('@garyhtou/prettier-config');
 ```
 
 ---
